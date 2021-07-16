@@ -43,6 +43,8 @@ group :development, :test do
   gem 'pry-rails'
   gem 'rspec-rails', '~> 3.5'
   gem 'activerecord-import'
+  gem 'annotate'
+  gem 'better_errors'
 end
 
 group :development do
